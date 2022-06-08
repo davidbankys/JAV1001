@@ -1,3 +1,7 @@
+// David Bankole Abel
+// A00236512
+
+
 import java.util.Scanner;
 
 public class ArrayTools
