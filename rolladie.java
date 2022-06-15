@@ -1,4 +1,4 @@
-package rolladie;
+package rollADie;
 
 import java.util.Random;
 
