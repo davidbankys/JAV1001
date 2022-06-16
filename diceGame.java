@@ -1,3 +1,6 @@
+// David Bankole Abel
+// A0236512
+
 import java.util.Random;
 
 public class diceGame {
